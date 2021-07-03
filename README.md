@@ -10,4 +10,6 @@ Framework :
   Flutter<br/>
 Editor :
   Visual Studio Code
-  
+
+
+NOTE : put all files/folders inside your lib folder of flutter's project
