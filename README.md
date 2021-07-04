@@ -12,9 +12,9 @@
 </ul>
 <h2>Inspiration</h2>
 <b>UI Design : </b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dennis Bondarenko<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(https://dribbble.com/shots/9657186-YouTube-App-Redesign-Concept)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://cdn.dribbble.com/users/3648061/screenshots/9657186/media/5eb84c957495b250ce4b278fe7a76a40.jpg?compress=1&resize=1200x900)
+Dennis Bondarenko<br/>
+https://dribbble.com/shots/9657186-YouTube-App-Redesign-Concept<br/>
+<img src="https://cdn.dribbble.com/users/3648061/screenshots/9657186/media/5eb84c957495b250ce4b278fe7a76a40.jpg?compress=1&resize=1200x900" alt="Youtube App Redesign"/>
   
 
 
